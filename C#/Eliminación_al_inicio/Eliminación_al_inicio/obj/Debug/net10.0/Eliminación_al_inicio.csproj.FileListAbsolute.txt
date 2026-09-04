@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\Eliminación_al_inicio\Eliminación_al_inicio\bin\Debug\net10.0\Eliminación_al_inicio.exe
+C:\Users\rafae\source\repos\Eliminación_al_inicio\Eliminación_al_inicio\bin\Debug\net10.0\Eliminación_al_inicio.deps.json
+C:\Users\rafae\source\repos\Eliminación_al_inicio\Eliminación_al_inicio\bin\Debug\net10.0\Eliminación_al_inicio.runtimeconfig.json
+C:\Users\rafae\source\repos\Eliminación_al_inicio\Eliminación_al_inicio\bin\Debug\net10.0\Eliminación_al_inicio.dll
+C:\Users\rafae\source\repos\Eliminación_al_inicio\Eliminación_al_inicio\bin\Debug\net10.0\Eliminación_al_inicio.pdb
+C:\Users\rafae\source\repos\Eliminación_al_inicio\Eliminación_al_inicio\obj\Debug\net10.0\Eliminación_al_inicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Eliminación_al_inicio\Eliminación_al_inicio\obj\Debug\net10.0\Eliminación_al_inicio.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Eliminación_al_inicio\Eliminación_al_inicio\obj\Debug\net10.0\Eliminación_al_inicio.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Eliminación_al_inicio\Eliminación_al_inicio\obj\Debug\net10.0\Eliminación_al_inicio.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Eliminación_al_inicio\Eliminación_al_inicio\obj\Debug\net10.0\Eliminación_al_inicio.dll
+C:\Users\rafae\source\repos\Eliminación_al_inicio\Eliminación_al_inicio\obj\Debug\net10.0\refint\Eliminación_al_inicio.dll
+C:\Users\rafae\source\repos\Eliminación_al_inicio\Eliminación_al_inicio\obj\Debug\net10.0\Eliminación_al_inicio.pdb
+C:\Users\rafae\source\repos\Eliminación_al_inicio\Eliminación_al_inicio\obj\Debug\net10.0\Eliminación_al_inicio.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Eliminación_al_inicio\Eliminación_al_inicio\obj\Debug\net10.0\ref\Eliminación_al_inicio.dll

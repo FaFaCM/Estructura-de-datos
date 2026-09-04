@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\Eliminación_elegida\Eliminación_elegida\bin\Debug\net10.0\Eliminación_elegida.exe
+C:\Users\rafae\source\repos\Eliminación_elegida\Eliminación_elegida\bin\Debug\net10.0\Eliminación_elegida.deps.json
+C:\Users\rafae\source\repos\Eliminación_elegida\Eliminación_elegida\bin\Debug\net10.0\Eliminación_elegida.runtimeconfig.json
+C:\Users\rafae\source\repos\Eliminación_elegida\Eliminación_elegida\bin\Debug\net10.0\Eliminación_elegida.dll
+C:\Users\rafae\source\repos\Eliminación_elegida\Eliminación_elegida\bin\Debug\net10.0\Eliminación_elegida.pdb
+C:\Users\rafae\source\repos\Eliminación_elegida\Eliminación_elegida\obj\Debug\net10.0\Eliminación_elegida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Eliminación_elegida\Eliminación_elegida\obj\Debug\net10.0\Eliminación_elegida.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Eliminación_elegida\Eliminación_elegida\obj\Debug\net10.0\Eliminación_elegida.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Eliminación_elegida\Eliminación_elegida\obj\Debug\net10.0\Eliminación_elegida.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Eliminación_elegida\Eliminación_elegida\obj\Debug\net10.0\Eliminación_elegida.dll
+C:\Users\rafae\source\repos\Eliminación_elegida\Eliminación_elegida\obj\Debug\net10.0\refint\Eliminación_elegida.dll
+C:\Users\rafae\source\repos\Eliminación_elegida\Eliminación_elegida\obj\Debug\net10.0\Eliminación_elegida.pdb
+C:\Users\rafae\source\repos\Eliminación_elegida\Eliminación_elegida\obj\Debug\net10.0\Eliminación_elegida.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Eliminación_elegida\Eliminación_elegida\obj\Debug\net10.0\ref\Eliminación_elegida.dll
