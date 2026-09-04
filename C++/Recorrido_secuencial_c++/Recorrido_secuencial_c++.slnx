@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Recorrido_secuencial_c++/Recorrido_secuencial_c++.vcxproj" />
+</Solution>
