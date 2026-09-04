@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\Recorrido_secuencial\Recorrido_secuencial\bin\Debug\net10.0\Recorrido_secuencial.exe
+C:\Users\rafae\source\repos\Recorrido_secuencial\Recorrido_secuencial\bin\Debug\net10.0\Recorrido_secuencial.deps.json
+C:\Users\rafae\source\repos\Recorrido_secuencial\Recorrido_secuencial\bin\Debug\net10.0\Recorrido_secuencial.runtimeconfig.json
+C:\Users\rafae\source\repos\Recorrido_secuencial\Recorrido_secuencial\bin\Debug\net10.0\Recorrido_secuencial.dll
+C:\Users\rafae\source\repos\Recorrido_secuencial\Recorrido_secuencial\bin\Debug\net10.0\Recorrido_secuencial.pdb
+C:\Users\rafae\source\repos\Recorrido_secuencial\Recorrido_secuencial\obj\Debug\net10.0\Recorrido_secuencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Recorrido_secuencial\Recorrido_secuencial\obj\Debug\net10.0\Recorrido_secuencial.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Recorrido_secuencial\Recorrido_secuencial\obj\Debug\net10.0\Recorrido_secuencial.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Recorrido_secuencial\Recorrido_secuencial\obj\Debug\net10.0\Recorrido_secuencial.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Recorrido_secuencial\Recorrido_secuencial\obj\Debug\net10.0\Recorrido_secuencial.dll
+C:\Users\rafae\source\repos\Recorrido_secuencial\Recorrido_secuencial\obj\Debug\net10.0\refint\Recorrido_secuencial.dll
+C:\Users\rafae\source\repos\Recorrido_secuencial\Recorrido_secuencial\obj\Debug\net10.0\Recorrido_secuencial.pdb
+C:\Users\rafae\source\repos\Recorrido_secuencial\Recorrido_secuencial\obj\Debug\net10.0\Recorrido_secuencial.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Recorrido_secuencial\Recorrido_secuencial\obj\Debug\net10.0\ref\Recorrido_secuencial.dll
