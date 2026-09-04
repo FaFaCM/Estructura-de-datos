@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\Inserción_al_final\Inserción_al_final\bin\Debug\net10.0\Inserción_al_final.exe
+C:\Users\rafae\source\repos\Inserción_al_final\Inserción_al_final\bin\Debug\net10.0\Inserción_al_final.deps.json
+C:\Users\rafae\source\repos\Inserción_al_final\Inserción_al_final\bin\Debug\net10.0\Inserción_al_final.runtimeconfig.json
+C:\Users\rafae\source\repos\Inserción_al_final\Inserción_al_final\bin\Debug\net10.0\Inserción_al_final.dll
+C:\Users\rafae\source\repos\Inserción_al_final\Inserción_al_final\bin\Debug\net10.0\Inserción_al_final.pdb
+C:\Users\rafae\source\repos\Inserción_al_final\Inserción_al_final\obj\Debug\net10.0\Inserción_al_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Inserción_al_final\Inserción_al_final\obj\Debug\net10.0\Inserción_al_final.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Inserción_al_final\Inserción_al_final\obj\Debug\net10.0\Inserción_al_final.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Inserción_al_final\Inserción_al_final\obj\Debug\net10.0\Inserción_al_final.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Inserción_al_final\Inserción_al_final\obj\Debug\net10.0\Inserción_al_final.dll
+C:\Users\rafae\source\repos\Inserción_al_final\Inserción_al_final\obj\Debug\net10.0\refint\Inserción_al_final.dll
+C:\Users\rafae\source\repos\Inserción_al_final\Inserción_al_final\obj\Debug\net10.0\Inserción_al_final.pdb
+C:\Users\rafae\source\repos\Inserción_al_final\Inserción_al_final\obj\Debug\net10.0\Inserción_al_final.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Inserción_al_final\Inserción_al_final\obj\Debug\net10.0\ref\Inserción_al_final.dll

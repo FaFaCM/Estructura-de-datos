@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Recorrido_inverso/1.0.0": {
+        "runtime": {
+          "Recorrido_inverso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recorrido_inverso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

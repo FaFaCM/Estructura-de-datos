@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\Recorrido_inverso\Recorrido_inverso\bin\Debug\net10.0\Recorrido_inverso.exe
+C:\Users\rafae\source\repos\Recorrido_inverso\Recorrido_inverso\bin\Debug\net10.0\Recorrido_inverso.deps.json
+C:\Users\rafae\source\repos\Recorrido_inverso\Recorrido_inverso\bin\Debug\net10.0\Recorrido_inverso.runtimeconfig.json
+C:\Users\rafae\source\repos\Recorrido_inverso\Recorrido_inverso\bin\Debug\net10.0\Recorrido_inverso.dll
+C:\Users\rafae\source\repos\Recorrido_inverso\Recorrido_inverso\bin\Debug\net10.0\Recorrido_inverso.pdb
+C:\Users\rafae\source\repos\Recorrido_inverso\Recorrido_inverso\obj\Debug\net10.0\Recorrido_inverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Recorrido_inverso\Recorrido_inverso\obj\Debug\net10.0\Recorrido_inverso.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Recorrido_inverso\Recorrido_inverso\obj\Debug\net10.0\Recorrido_inverso.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Recorrido_inverso\Recorrido_inverso\obj\Debug\net10.0\Recorrido_inverso.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Recorrido_inverso\Recorrido_inverso\obj\Debug\net10.0\Recorrido_inverso.dll
+C:\Users\rafae\source\repos\Recorrido_inverso\Recorrido_inverso\obj\Debug\net10.0\refint\Recorrido_inverso.dll
+C:\Users\rafae\source\repos\Recorrido_inverso\Recorrido_inverso\obj\Debug\net10.0\Recorrido_inverso.pdb
+C:\Users\rafae\source\repos\Recorrido_inverso\Recorrido_inverso\obj\Debug\net10.0\Recorrido_inverso.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Recorrido_inverso\Recorrido_inverso\obj\Debug\net10.0\ref\Recorrido_inverso.dll
