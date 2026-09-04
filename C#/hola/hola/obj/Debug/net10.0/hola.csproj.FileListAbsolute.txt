@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\hola\hola\bin\Debug\net10.0\hola.exe
+C:\Users\rafae\source\repos\hola\hola\bin\Debug\net10.0\hola.deps.json
+C:\Users\rafae\source\repos\hola\hola\bin\Debug\net10.0\hola.runtimeconfig.json
+C:\Users\rafae\source\repos\hola\hola\bin\Debug\net10.0\hola.dll
+C:\Users\rafae\source\repos\hola\hola\bin\Debug\net10.0\hola.pdb
+C:\Users\rafae\source\repos\hola\hola\obj\Debug\net10.0\hola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\hola\hola\obj\Debug\net10.0\hola.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\hola\hola\obj\Debug\net10.0\hola.AssemblyInfo.cs
+C:\Users\rafae\source\repos\hola\hola\obj\Debug\net10.0\hola.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\hola\hola\obj\Debug\net10.0\hola.dll
+C:\Users\rafae\source\repos\hola\hola\obj\Debug\net10.0\refint\hola.dll
+C:\Users\rafae\source\repos\hola\hola\obj\Debug\net10.0\hola.pdb
+C:\Users\rafae\source\repos\hola\hola\obj\Debug\net10.0\hola.genruntimeconfig.cache
+C:\Users\rafae\source\repos\hola\hola\obj\Debug\net10.0\ref\hola.dll
