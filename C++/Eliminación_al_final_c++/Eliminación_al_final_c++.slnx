@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Eliminación_al_final_c++/Eliminación_al_final_c++.vcxproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Eliminacion_al_inicio_c++/Eliminacion_al_inicio_c++.vcxproj" />
+</Solution>
