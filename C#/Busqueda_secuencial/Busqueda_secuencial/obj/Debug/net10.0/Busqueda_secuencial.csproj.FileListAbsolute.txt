@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\Busqueda_secuencial\Busqueda_secuencial\bin\Debug\net10.0\Busqueda_secuencial.exe
+C:\Users\rafae\source\repos\Busqueda_secuencial\Busqueda_secuencial\bin\Debug\net10.0\Busqueda_secuencial.deps.json
+C:\Users\rafae\source\repos\Busqueda_secuencial\Busqueda_secuencial\bin\Debug\net10.0\Busqueda_secuencial.runtimeconfig.json
+C:\Users\rafae\source\repos\Busqueda_secuencial\Busqueda_secuencial\bin\Debug\net10.0\Busqueda_secuencial.dll
+C:\Users\rafae\source\repos\Busqueda_secuencial\Busqueda_secuencial\bin\Debug\net10.0\Busqueda_secuencial.pdb
+C:\Users\rafae\source\repos\Busqueda_secuencial\Busqueda_secuencial\obj\Debug\net10.0\Busqueda_secuencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Busqueda_secuencial\Busqueda_secuencial\obj\Debug\net10.0\Busqueda_secuencial.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Busqueda_secuencial\Busqueda_secuencial\obj\Debug\net10.0\Busqueda_secuencial.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Busqueda_secuencial\Busqueda_secuencial\obj\Debug\net10.0\Busqueda_secuencial.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Busqueda_secuencial\Busqueda_secuencial\obj\Debug\net10.0\Busqueda_secuencial.dll
+C:\Users\rafae\source\repos\Busqueda_secuencial\Busqueda_secuencial\obj\Debug\net10.0\refint\Busqueda_secuencial.dll
+C:\Users\rafae\source\repos\Busqueda_secuencial\Busqueda_secuencial\obj\Debug\net10.0\Busqueda_secuencial.pdb
+C:\Users\rafae\source\repos\Busqueda_secuencial\Busqueda_secuencial\obj\Debug\net10.0\Busqueda_secuencial.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Busqueda_secuencial\Busqueda_secuencial\obj\Debug\net10.0\ref\Busqueda_secuencial.dll

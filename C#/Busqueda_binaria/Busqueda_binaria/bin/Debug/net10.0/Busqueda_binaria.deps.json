@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Busqueda_binaria/1.0.0": {
+        "runtime": {
+          "Busqueda_binaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Busqueda_binaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

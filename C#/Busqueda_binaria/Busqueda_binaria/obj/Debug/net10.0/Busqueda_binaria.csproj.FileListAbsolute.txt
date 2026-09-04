@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\Busqueda_binaria\Busqueda_binaria\bin\Debug\net10.0\Busqueda_binaria.exe
+C:\Users\rafae\source\repos\Busqueda_binaria\Busqueda_binaria\bin\Debug\net10.0\Busqueda_binaria.deps.json
+C:\Users\rafae\source\repos\Busqueda_binaria\Busqueda_binaria\bin\Debug\net10.0\Busqueda_binaria.runtimeconfig.json
+C:\Users\rafae\source\repos\Busqueda_binaria\Busqueda_binaria\bin\Debug\net10.0\Busqueda_binaria.dll
+C:\Users\rafae\source\repos\Busqueda_binaria\Busqueda_binaria\bin\Debug\net10.0\Busqueda_binaria.pdb
+C:\Users\rafae\source\repos\Busqueda_binaria\Busqueda_binaria\obj\Debug\net10.0\Busqueda_binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Busqueda_binaria\Busqueda_binaria\obj\Debug\net10.0\Busqueda_binaria.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Busqueda_binaria\Busqueda_binaria\obj\Debug\net10.0\Busqueda_binaria.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Busqueda_binaria\Busqueda_binaria\obj\Debug\net10.0\Busqueda_binaria.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Busqueda_binaria\Busqueda_binaria\obj\Debug\net10.0\Busqueda_binaria.dll
+C:\Users\rafae\source\repos\Busqueda_binaria\Busqueda_binaria\obj\Debug\net10.0\refint\Busqueda_binaria.dll
+C:\Users\rafae\source\repos\Busqueda_binaria\Busqueda_binaria\obj\Debug\net10.0\Busqueda_binaria.pdb
+C:\Users\rafae\source\repos\Busqueda_binaria\Busqueda_binaria\obj\Debug\net10.0\Busqueda_binaria.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Busqueda_binaria\Busqueda_binaria\obj\Debug\net10.0\ref\Busqueda_binaria.dll
