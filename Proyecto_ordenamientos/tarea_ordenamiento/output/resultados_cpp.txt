@@ -1,0 +1,8 @@
+# lenguaje,C++
+# compilador,g++ 6.3.0
+# sistema,Windows
+# procesador,AMD Ryzen 5 7535HS (3.30 GHz)
+# ram,16 GB
+# grafica,NVIDIA GeForce RTX 4050 Laptop GPU (6 GB)
+# limite_tiempo_s,sin_limite
+algoritmo,n,caso,estado,tiempo_s,comparaciones,intercambios
